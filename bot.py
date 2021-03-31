@@ -65,7 +65,7 @@ async def start(bot, cmd):
 				if user.status == "kicked":
 					await bot.send_message(
 						chat_id=cmd.from_user.id,
-						text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/MovieBuzzOfficialGroup).",
+						text="Sorry Sir, You are Banned to use me. Contact my [Support Group🏩](https://t.me/MovieBuzzOfficialGroup).",
 						parse_mode="markdown",
 						disable_web_page_preview=True
 					)
@@ -77,7 +77,7 @@ async def start(bot, cmd):
 					reply_markup=InlineKeyboardMarkup(
 						[
 							[
-								InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
+								InlineKeyboardButton("🤖 Join Updates Channel🦋", url=invite_link.invite_link)
 							],
 							[
 								InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
@@ -90,7 +90,7 @@ async def start(bot, cmd):
 			except Exception:
 				await bot.send_message(
 					chat_id=cmd.from_user.id,
-					text="Something went Wrong. Contact my [Support Group](https://t.me/MovieBuzzOfficialGroup).",
+					text="Something went Wrong. Contact my [Support Group🏩](https://t.me/MovieBuzzOfficialGroup).",
 					parse_mode="markdown",
 					disable_web_page_preview=True
 				)
@@ -102,8 +102,8 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Support Group", url="https://t.me/MovieBuzzOfficialGroup"),
-						InlineKeyboardButton("Bots Channel", url="https://t.me/MovieBuzzOfficial")
+						InlineKeyboardButton("Support Group🏩", url="https://t.me/MovieBuzzOfficialGroup"),
+						InlineKeyboardButton("Bots Channel🦋", url="https://t.me/MovieBuzzOfficial")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -120,7 +120,7 @@ async def start(bot, cmd):
 				if user.status == "kicked":
 					await bot.send_message(
 						chat_id=cmd.from_user.id,
-						text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/MovieBuzzOfficialGroup).",
+						text="Sorry Sir, You are Banned to use me. Contact my [Support Group🏩](https://t.me/MovieBuzzOfficialGroup).",
 						parse_mode="markdown",
 						disable_web_page_preview=True
 					)
@@ -133,7 +133,7 @@ async def start(bot, cmd):
 					reply_markup=InlineKeyboardMarkup(
 						[
 							[
-								InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
+								InlineKeyboardButton("🤖 Join Updates Channel🦋", url=invite_link.invite_link)
 							],
 							[
 								InlineKeyboardButton("🔄 Refresh / Try Again", url=f"https://telegram.dog/{BOT_USERNAME}?start=AbirHasan2005_{file_id}")
@@ -146,7 +146,7 @@ async def start(bot, cmd):
 			except Exception:
 				await bot.send_message(
 					chat_id=cmd.from_user.id,
-					text="Something went Wrong. Contact my [Support Group](https://t.me/MovieBuzzOfficialGroup).",
+					text="Something went Wrong. Contact my [Support Group🏩](https://t.me/MovieBuzzOfficialGroup).",
 					parse_mode="markdown",
 					disable_web_page_preview=True
 				)
@@ -171,7 +171,7 @@ async def main(bot, message):
 				f"**Your File Stored in my Database!**\n\nHere is the Permanent Link of your file: {share_link} \n\nJust Click the link to get your file!",
 				parse_mode="Markdown",
 				reply_markup=InlineKeyboardMarkup(
-					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("Bots Channel", url="https://t.me/MovieBuzzOfficial"), InlineKeyboardButton("Support Group", url="https://t.me/MovieBuzzOfficialGroup")]]
+					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("Bots Channel🦋", url="https://t.me/MovieBuzzOfficial"), InlineKeyboardButton("Support Group🏩", url="https://t.me/MovieBuzzOfficialGroup")]]
 				),
 				disable_web_page_preview=True
 			)
@@ -288,11 +288,11 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("⚜️ YouTube", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
+						InlineKeyboardButton("Join And Support Us on YouTube", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
 					],
 					[
 						InlineKeyboardButton("Go Home", callback_data="gotohome"),
-						InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+						InlineKeyboardButton("About Dev😎", callback_data="aboutdevs")
 					]
 				]
 			)
@@ -305,7 +305,7 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("⚜️ YouTube", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
+						InlineKeyboardButton("Join And Support Us on YouTube", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -323,7 +323,7 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("Support Group🏩", url="https://t.me/MovieBuzzOfficialGroup"),
-						InlineKeyboardButton("Bots Channel🇮🇳", url="https://t.me/MovieBuzzOfficial")
+						InlineKeyboardButton("Bots Channel🦋", url="https://t.me/MovieBuzzOfficial")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -339,7 +339,7 @@ async def button(bot, cmd: CallbackQuery):
 				user = await bot.get_chat_member(int(Config.UPDATES_CHANNEL), cmd.message.chat.id)
 				if user.status == "kicked":
 					await cmd.message.edit(
-						text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/MovieBuzzOfficialGroup).",
+						text="Sorry Sir, You are Banned to use me. Contact my [Support Group🏩](https://t.me/MovieBuzzOfficialGroup).",
 						parse_mode="markdown",
 						disable_web_page_preview=True
 					)
@@ -350,7 +350,7 @@ async def button(bot, cmd: CallbackQuery):
 					reply_markup=InlineKeyboardMarkup(
 						[
 							[
-								InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
+								InlineKeyboardButton("🤖 Join Updates Channel🦋", url=invite_link.invite_link)
 							],
 							[
 								InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
@@ -362,7 +362,7 @@ async def button(bot, cmd: CallbackQuery):
 				return
 			except Exception:
 				await cmd.message.edit(
-					text="Something went Wrong. Contact my [Support Group](https://t.me/MovieBuzzOfficialGroup).",
+					text="Something went Wrong. Contact my [Support Group🏡](https://t.me/MovieBuzzOfficialGroup).",
 					parse_mode="markdown",
 					disable_web_page_preview=True
 				)
@@ -374,8 +374,8 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Support Group", url="https://t.me/MovieBuzzOfficialGroup"),
-						InlineKeyboardButton("Bots Channel", url="https://t.me/MovieBuzzOfficial")
+						InlineKeyboardButton("Support Group🏩", url="https://t.me/MovieBuzzOfficialGroup"),
+						InlineKeyboardButton("Bots Channel🦋", url="https://t.me/MovieBuzzOfficial")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
