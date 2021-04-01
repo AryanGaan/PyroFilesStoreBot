@@ -292,7 +292,7 @@ async def button(bot, cmd: CallbackQuery):
 					],
 					[
 						InlineKeyboardButton("Go Home", callback_data="gotohome"),
-						InlineKeyboardButton("About Dev😎", callback_data="aboutdevs")
+						InlineKeyboardButton("About Dev", callback_data="aboutdevs")
 					]
 				]
 			)
