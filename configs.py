@@ -43,5 +43,5 @@ Your File in my Top secret Database 🤗 I will give you a permanent Sharable Li
 ⚠️ Benifit:  If You want to store something and worried about Copyright! Then Useful for you.You can Send me your File and I'll send you link of your file, So people will get File From me 😊 and Your Channel will safe NO COPYRIGHT issue🤩.
 📍 No one in the Universe can access your file without your👑 permission, if you share them your link only then they are able to get the file.
  
-❌ 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦 Are Strictly Prohibited & Will Get You Banned Permanently.Check **About Bot** Button.
+❌ 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦 Are Strictly Prohibited & Will Get You Banned Permanently. Go and Check **About Bot** Button.
 """
