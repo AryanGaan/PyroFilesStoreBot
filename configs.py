@@ -19,11 +19,9 @@ This is 𝗘𝘃𝗲𝗹𝘆𝗻 𝗦𝘁𝗼𝗿𝗮𝗴𝗲 𝗦𝗲𝗰𝘁�
 
 👩‍💻 **Developer:** @Sonia_Mohapatra
 
-💝 **YouTube:** https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg
+🏩 **Support Group:** [Movie Buzz Group](https://t.me/MovieBuzzOfficialGroup)
 
-👥 **Support Group:** [Movie Buzz Group 🏩](https://t.me/MovieBuzzOfficialGroup)
-
-📢 **Updates Channel:** [Movie Buzz® 🦋](https://t.me/MovieBuzzOfficial)
+📢 **Updates Channel:** [Movie Buzz®](https://t.me/MovieBuzzOfficial)
 """
 	ABOUT_DEV_TEXT = f"""
 👩‍💻 **Developer:** @Sonia_Mohapatra
@@ -42,7 +40,8 @@ Also remember that developer will 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜�
 📫 Send Me any File i can upload
 Your File in my Top secret Database 🤗 I will give you a permanent Sharable Link. I Support Channel Also! Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-⚠️ Benifit:  If You want to store something and worried about Copyright! Then Useful for you.You can Send me your File and I'll send you link of your file, So people will get File From me 😊 and Your Channel will safe NO COPYRIGHT issue🤩. No one in the universe can access your file without your permission, if you share them your link only then they are able to get the file.
+⚠️ Benifit:  If You want to store something and worried about Copyright! Then Useful for you.You can Send me your File and I'll send you link of your file, So people will get File From me 😊 and Your Channel will safe NO COPYRIGHT issue🤩.
+📍No one in the universe can access your file without your permission, if you share them your link only then they are able to get the file.
  
 ❌ 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦 Are Strictly Prohibited & Will Get You Banned Permanently.Check **About Bot** Button.
 """
