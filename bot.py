@@ -288,7 +288,7 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Join And Support Us on YouTube", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
+						InlineKeyboardButton("Join And Support Us on YouTube💝", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
 					],
 					[
 						InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -305,7 +305,7 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Join And Support Us on YouTube", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
+						InlineKeyboardButton("Join And Support Us on YouTube💝", url="https://youtube.com/channel/UCF6IKvqyNrEWZyaVlCBVSpg")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
