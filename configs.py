@@ -15,20 +15,20 @@ class Config(object):
 	ABOUT_BOT_TEXT = f"""
 This is 𝗘𝘃𝗲𝗹𝘆𝗻 𝗦𝘁𝗼𝗿𝗮𝗴𝗲 𝗦𝗲𝗰𝘁𝗼𝗿!
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [Evelyn File Share & Storage](https://t.me/{BOT_USERNAME})
 
 👩‍💻 **Developer:** @Sonia_Mohapatra
 
 🏩 **Support Group:** [Movie Buzz Group](https://t.me/MovieBuzzOfficialGroup)
 
-📢 **Updates Channel:** [Movie Buzz®](https://t.me/MovieBuzzOfficial)
+🦋 **Updates Channel:** [Movie Buzz®](https://t.me/MovieBuzzOfficial)
 """
 	ABOUT_DEV_TEXT = f"""
 👩‍💻 **Developer:** @Sonia_Mohapatra
 
 Hello. I Will Not Brag About Something Which I Didnt Do. This Bot Was Officially Made By Abir Hasan. A Big Thank You To Him For Making This Bot. You Can Donate To Him By Clicking On The Link Given Below. Cheers! ! Please Donate the developer for Keeping the Service Alive.
 
-Also remember that developer will 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦 from Database. So better don't Store Those Kind of Things.
+⛔Remember that developer will 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦 from Database. So better don't Store Those Kind of Things.
 
 [Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
 """
@@ -41,7 +41,7 @@ Also remember that developer will 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜�
 Your File in my Top secret Database 🤗 I will give you a permanent Sharable Link. I Support Channel Also! Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
 ⚠️ Benifit:  If You want to store something and worried about Copyright! Then Useful for you.You can Send me your File and I'll send you link of your file, So people will get File From me 😊 and Your Channel will safe NO COPYRIGHT issue🤩.
-📍No one in the universe can access your file without your permission, if you share them your link only then they are able to get the file.
+📍 No one in the Universe can access your file without your👑 permission, if you share them your link only then they are able to get the file.
  
 ❌ 𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦 Are Strictly Prohibited & Will Get You Banned Permanently.Check **About Bot** Button.
 """
